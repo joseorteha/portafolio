@@ -1,0 +1,42 @@
+{
+  "navigation": [
+    {
+      "id": "home",
+      "label": {
+        "es": "Inicio",
+        "en": "Home"
+      },
+      "icon": "home"
+    },
+    {
+      "id": "story",
+      "label": {
+        "es": "Historia",
+        "en": "Story"
+      },
+      "icon": "book"
+    },
+    {
+      "id": "projects",
+      "label": {
+        "es": "Proyectos",
+        "en": "Projects"
+      },
+      "icon": "code"
+    },
+    {
+      "id": "contact",
+      "label": {
+        "es": "Más",
+        "en": "More"
+      },
+      "icon": "envelope"
+    }
+  ],
+  "sections": {
+    "home": ["about"],
+    "story": ["education", "experience"],
+    "projects": ["skills", "portfolio", "achievements"],
+    "contact": ["contact-form"]
+  }
+}

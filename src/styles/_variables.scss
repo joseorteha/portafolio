@@ -1,0 +1,31 @@
+// Fonts
+$font-family-base: 'Inter', sans-serif;
+$font-family-headings: 'Orbitron', sans-serif;
+$font-family-subheadings: 'Oxygen', sans-serif;
+
+// Colors - Dark Theme
+$dark-background: #121212;
+$dark-accent: #FF5733;
+$dark-text: #FFFFFF;
+$dark-text-secondary: rgba(255, 255, 255, 0.7);
+
+// Colors - Light Theme
+$light-background: #F5F5F5;
+$light-accent: #3498DB;
+$light-text: #333333;
+$light-text-secondary: rgba(51, 51, 51, 0.7);
+
+// Breakpoints
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+// Transitions
+$transition-base: all 0.3s ease;
+$transition-smooth: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+
+// Z-indices
+$z-index-preloader: 9999;
+$z-index-sidebar: 1000;
+$z-index-modal: 1050;

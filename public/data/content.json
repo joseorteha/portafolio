@@ -1,0 +1,107 @@
+{
+  "about": {
+    "title": {
+      "es": "¡Hola, soy José Ortega!",
+      "en": "Hi, I'm José Ortega!"
+    },
+    "description": {
+      "es": "Soy un apasionado desarrollador web con experiencia en React, JavaScript y tecnologías modernas. Actualmente estudio Ingeniería en Sistemas y desarrollo proyectos innovadores en web y móvil. Me encanta crear experiencias interactivas y aprender nuevas tecnologías. 🚀",
+      "en": "I'm a passionate web developer with experience in React, JavaScript, and modern technologies. Currently studying Systems Engineering and developing innovative web and mobile projects. I love creating interactive experiences and learning new technologies. 🚀"
+    }
+  },
+  "education": [
+    {
+      "title": {
+        "es": "Ingeniería en Sistemas",
+        "en": "Systems Engineering"
+      },
+      "institution": "Instituto Tecnológico Superior de Zongolica",
+      "period": "2021 - Presente",
+      "current": true
+    },
+    {
+      "title": {
+        "es": "Curso de Desarrollo Web",
+        "en": "Web Development Course"
+      },
+      "institution": "Platzi / Udemy",
+      "period": "2023"
+    }
+  ],
+  "skills": {
+    "frontend": ["React", "JavaScript", "TypeScript", "HTML", "CSS", "Bootstrap", "Tailwind"],
+    "backend": ["Node.js", "Express", "Firebase"],
+    "databases": ["MySQL", "PostgreSQL", "Firebase Firestore"],
+    "tools": ["Git", "Vite", "Netlify", "Expo (React Native)"]
+  },
+  "experience": [
+    {
+      "title": {
+        "es": "Proyecto \"Guau y Miau\"",
+        "en": "\"Guau y Miau\" Project"
+      },
+      "description": {
+        "es": "Desarrollo frontend con React, Firebase para autenticación y base de datos. Implementación de filtros avanzados y gestión de usuarios.",
+        "en": "Frontend development with React, Firebase for authentication and database. Implementation of advanced filters and user management."
+      },
+      "period": "2023"
+    },
+    {
+      "title": {
+        "es": "Colaborador en No Country",
+        "en": "Collaborator at No Country"
+      },
+      "description": {
+        "es": "Desarrollo web full-stack en React y Node.js. Optimización de experiencia de usuario y accesibilidad.",
+        "en": "Full-stack web development in React and Node.js. User experience and accessibility optimization."
+      },
+      "period": "2023"
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "Guau y Miau",
+      "description": {
+        "es": "Plataforma de adopción de mascotas.",
+        "en": "Pet adoption platform."
+      },
+      "link": "https://github.com/joseorteha/guau-y-miau",
+      "image": "/images/pictures/project-screenshot-1.webp",
+      "tags": ["React", "Firebase", "Bootstrap"]
+    },
+    {
+      "title": "Biblioteca Digital Offline",
+      "description": {
+        "es": "Proyecto en React Native + Expo.",
+        "en": "React Native + Expo project."
+      },
+      "link": "https://github.com/joseorteha/biblioteca-digital",
+      "image": "/images/pictures/project-screenshot-2.webp",
+      "tags": ["React Native", "Expo", "SQLite"]
+    }
+  ],
+  "achievements": [
+    {
+      "title": {
+        "es": "1er Lugar Hackathon",
+        "en": "1st Place Hackathon"
+      },
+      "description": {
+        "es": "Desarrollo de app en 24 horas",
+        "en": "App development in 24 hours"
+      },
+      "year": "2023"
+    },
+    {
+      "title": {
+        "es": "Certificación React",
+        "en": "React Certification"
+      },
+      "description": {
+        "es": "Platzi",
+        "en": "Platzi"
+      },
+      "year": "2023"
+    }
+  ]
+}
