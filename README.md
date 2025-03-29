@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/3d-fluency/94/react.png" width="30"/> José Ortega - Portafolio Dev Ultra-Performance 
+# José Ortega - Portafolio Dev Ultra-Performance 
 
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-important)](https://es.wikipedia.org/wiki/Licencia_MIT) 
 [![Versión React](https://img.shields.io/badge/React-18.3.1-61DAFB)](https://react.dev/) 
