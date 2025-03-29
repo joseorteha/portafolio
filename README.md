@@ -22,11 +22,11 @@
 
 <div align="center">
 
-| **Categoría**       | **Tecnologías**                                                                                                                                                                                                                                                                                                                                 |
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Core**            | <img src="https://img.icons8.com/3d-fluency/94/react.png" width="25"/> React · <img src="https://img.icons8.com/3d-fluency/94/typescript.png" width="25"/> TypeScript · <img src="https://img.icons8.com/3d-fluency/94/vite.png" width="25"/> Vite                                                                                             |
-| **Estilos**         | <img src="https://img.icons8.com/3d-fluency/94/tailwind_css.png" width="25"/> Tailwind · <img src="https://img.icons8.com/3d-fluency/94/sass.png" width="25"/> SASS · <img src="https://img.icons8.com/3d-fluency/94/css3.png" width="25"/> CSS Modules                                                                                       |
-| **Extra**           | <img src="https://img.icons8.com/3d-fluency/94/particle-network.png" width="25"/> TSParticles · <img src="https://img.icons8.com/3d-fluency/94/motion-design.png" width="25"/> Framer Motion · <img src="https://img.icons8.com/3d-fluency/94/email.png" width="25"/> EmailJS                                                                 |
+| **Categoría**       | **Tecnologías**                                                                                                                                                                                                                     |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Core**            | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) |
+| **Estilos**         | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white) ![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?logo=css3&logoColor=white) |
+| **Extra**           | ![TSParticles](https://img.shields.io/badge/TSParticles-000000?logo=particles.js&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white) ![EmailJS](https://img.shields.io/badge/EmailJS-FF3621?logo=mail.ru&logoColor=white) |
 
 </div>
 
