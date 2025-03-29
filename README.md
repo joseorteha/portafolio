@@ -6,7 +6,8 @@
 
 🔥 **Portafolio de élite** desarrollado con stack tecnológico de vanguardia, diseñado para impresionar reclutadores y mostrar habilidades al nivel NASA 🚀
 
-<img src="public/ss-portfolio.jpg" alt="Captura Portafolio" width="800"/>
+![image](https://github.com/user-attachments/assets/1d718288-39a7-4b20-a693-ce8ee37907a7)
+
 
 ## 🌟 Features de Alto Impacto
 
